@@ -7,7 +7,11 @@
 		<key>fileTypes</key>
 		<array>
 			<string>v</string>
-			<string>V</string>
+                        <string>sv</string>
+                        <string>vh</string>
+                        <string>svh</string>
+                        <string>vp</string>
+                        <string>svp</string>
 		</array>
 		<key>foldingStartMarker</key>
 		<string>(begin)\s*(//.*)?$</string>
